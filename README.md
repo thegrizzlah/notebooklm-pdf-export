@@ -6,10 +6,10 @@ Based on the original script by [Vivek K. Singh](https://gist.github.com/vivekth
 
 ## Quick Start
 
-Grab the script directly from the [Gist](https://gist.github.com/TheGrizzlah/e6da0904734c71709191ac589019364e):
+Grab the script directly from the [Gist](https://gist.github.com/thegrizzlah/e6da0904734c71709191ac589019364e):
 
 ```bash
-curl -O https://gist.githubusercontent.com/TheGrizzlah/e6da0904734c71709191ac589019364e/raw/export_note.py
+curl -O https://gist.githubusercontent.com/thegrizzlah/e6da0904734c71709191ac589019364e/raw/export_note.py
 pip3 install beautifulsoup4==4.13.4 markdown_pdf==1.7
 ```
 
